@@ -81,6 +81,10 @@ Mide cuántas reseñas se respondieron dentro de un período específico. Esto p
 
 Además, desarrollaremos una idea de negocio que utilice estos insights para ayudar a los restaurantes a mejorar su oferta y atraer más clientes. Se definirán indicadores clave de desempeño (KPIs). Al finalizar este sprint, tendremos una base sólida para futuras decisiones estratégicas y mejoras en el servicio.
 
+**Sprint 2:** En este sprint se presentó el flujo de los datos, la arquitectura de los datos, las funcionalidades de carga incremental e interacción con BigQuery. Además se presentó un mockup del dashboard.
+
+**Sprint 3:** Se presenta el dashboard funcional con interacción entre los datos estructurados de BigQuery y Looker para la visualización de los datos. Presentando vista general interactiva de los datos, kpis y analisis de sentimientos. Además un modelo de búsqueda de restaurantes con FastApi interactivo en base a modelo de Machine Learning.
+
 ## :eight_spoked_asterisk: **_Pipeline y Stack tecnologico_**
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
@@ -89,7 +93,7 @@ Además, desarrollaremos una idea de negocio que utilice estos insights para ayu
 [![BigQuery](https://img.shields.io/badge/BigQuery-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/bigquery)
 [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/)
 [![Google Cloud Storage](https://img.shields.io/badge/Google%20Cloud%20Storage-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)](https://cloud.google.com/storage)
-[![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://streamlit.io/)
+[![Looker](https://img.shields.io/badge/Looker-D83B01?style=for-the-badge&logo=looker&logoColor=white)](https://tu-dominio-looker.com/dashboards/123)
 
 ## :eight_spoked_asterisk: **_Dashboard_**
 
