@@ -97,6 +97,7 @@ Además, desarrollaremos una idea de negocio que utilice estos insights para ayu
 
 ## :eight_spoked_asterisk: **_Dashboard_**
 <p align="center"> <img src="images/Dashboard_SatisfyIQ_page-0001.jpg" alt="Preview Dashboard Página 1" width="600"/> </p> <p align="center"> <img src="images/Dashboard_SatisfyIQ_page-0002.jpg" alt="Preview Dashboard Página 2" width="600"/> </p>
+🔗Link Dashboard: https://lookerstudio.google.com/s/n4xcs5x8jNw
 
 ## :eight_spoked_asterisk: **_Modelo de machine learning_**
 Nuestro cliente podra predecir mediante esta aplicacion el restaurante que mejor se adapte a los parametros seleccionados
