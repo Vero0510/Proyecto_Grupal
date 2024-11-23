@@ -96,6 +96,7 @@ Además, desarrollaremos una idea de negocio que utilice estos insights para ayu
 [![Looker](https://img.shields.io/badge/Looker-D83B01?style=for-the-badge&logo=looker&logoColor=white)](https://tu-dominio-looker.com/dashboards/123)
 
 ## :eight_spoked_asterisk: **_Dashboard_**
+<p align="center"> <img src="images/Dashboard_SatisfyIQ_page-0001.jpg" alt="Preview Dashboard Página 1" width="600"/> </p> <p align="center"> <img src="images/Dashboard_SatisfyIQ_page-0002.jpg" alt="Preview Dashboard Página 2" width="600"/> </p>
 
 ## :eight_spoked_asterisk: **_Modelo de machine learning_**
 Nuestro cliente podra predecir mediante esta aplicacion el restaurante que mejor se adapte a los parametros seleccionados
